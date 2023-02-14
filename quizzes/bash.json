@@ -1,0 +1,37 @@
+[
+    {
+        "question": "Fill in the blanks with appropriate word:",
+        "description": "The prize giving ceremony of our school was (a) <in> on 2 December 2012. it was held in the school auditorium. We decorated (b) <in> school building very nicely. The function began at 10 a.m. it began with the (c) <in> from the holy Quran and the bible. Then the head teacher called the names of the recipients. The head teacher also read (d) <in> the annual report. Then the prize were distributed (e) <in> the winners.",
+        "type": "multi-input",
+        "correctAnswer": ["held", "the", "recitation", "out", "among"],
+        "madeBy": "Sanaul Haque"
+    },
+    {
+        "question": "Fill in the blanks with appropriate word:",
+        "description": " Independence is (a) <in> birth right of a man. But no nation can achieve it without struggle. We achieved independence in 1971 through a (b) <in> war. People of all walks of life joined the war. They fought (c) <in> against the enemies. They did not run (d) <in> showing their back. Many freedom fighters become martyrs in the war. Today we remember them with (e) <in> respect.",
+        "type": "multi-input",
+        "correctAnswer": ["the", "bloody", "fiercely", "away", "profound"],
+        "madeBy": "Sanaul Haque"
+    },
+    {
+        "question": "Fill in the blanks with appropriate word:",
+        "description": " 21st February is declared as an (a) <in> mother language day. This day is also (b) <in> Shaheed day. On this day people go to shaheed minar to show (c) <in> to the martyrs. They carry flower wreaths to offer them (d) <in> national flag is kept half flying. The popular song “Amar Bhaier Rokte Rangano Ekushe February” is (e) <in> in chorus.",
+        "type": "multi-input",
+        "correctAnswer": ["international", "called", "respect", "the", "sung"],
+        "madeBy": "Sanaul Haque"
+    },
+    {
+        "question": "Fill in the blanks with appropriate word:",
+        "description": " Man is curious by nature. He wants to know (a) <in> thing about the world. Newspaper is (b) <in> best media to satisfy this curiosity. It is useful to all sections of (c) <in> . In modern life it has really become a (d) <in> of our life. people can express their opinions through it.  For many reasons a newspaper is called the (e) <in> of knowledge.",
+        "type": "multi-input",
+        "correctAnswer": ["various", "the", "people", "part and parcel", "storehouse"],
+        "madeBy": "Sanaul Haque"
+    },
+    {
+        "question": "Fill in the blanks with appropriate word:",
+        "description": "Haji Mohsin was famous for his (a) <in> . He helped the poor people (b) <in> food and clothes. One night a thief (c) <in> into his bedroom.  Haji Mohsin woke up and caught hold of the thief. The thief said, “sir, I am very poor and I have no (d) <in> in my house.” Mohsin felt pity with the poor man. He took him to another room and (e) <in> box.",
+        "type": "multi-input",
+        "correctAnswer": ["kindness", "giving" ,"entered", "food", "opened"],
+        "madeBy": "Sanaul Haque"
+    }
+]
